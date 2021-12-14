@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import web.model.Role;
 import web.service.RoleService;
 /*
-*            Не используется в данной версии. Нужен для преобразования значений из чекбокса
+*            Не используется в данной версии. Нужен для преобразования значений из чекбокса, если передавать объекты Role (не получилось реализовать)
 *
 * */
 @Component
